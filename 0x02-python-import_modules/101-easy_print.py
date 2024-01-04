@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-from simple import display; display("#pythoniscool")
+from simple import display
+display("#pythoniscool")
